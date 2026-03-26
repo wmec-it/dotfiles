@@ -1,0 +1,6 @@
+{
+  "file_types": {
+    // "HTML": ["README.md"],
+    "Markdown": ["README.md"],
+  },
+}
