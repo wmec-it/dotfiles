@@ -8,7 +8,7 @@
   <h2>Code Syntax</h2>
   
   <details open>
-    <summary><h3 style="display:inline">📝 Naming Convention</h3></summary>
+    <summary><h3 style="display:inline">Naming Convention</h3></summary>
     
     <div style="margin-top: 1rem;">
       <p><b>Format:</b></p>
