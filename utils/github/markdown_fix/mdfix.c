@@ -1,3 +1,5 @@
+// Currently AI generated. DO NOT TRUST IT    ->    Claude Haiku 4.5
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
