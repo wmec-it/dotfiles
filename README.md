@@ -6,14 +6,11 @@
 
 <section id="code-syntax">
   <h2>Code Syntax</h2>
-  
   <details open>
     <summary><h3 style="display:inline">Naming Convention</h3></summary>
-    
     <div style="margin-top: 1rem;">
       <p><b>Format:</b></p>
       <pre><code>[_]WMECDOTFILES_&lt;DECLARATION_TYPE&gt;_&lt;LAYER_NAME&gt;[_]</code></pre>
-      
       <h4>Components:</h4>
       <ul>
         <li>
