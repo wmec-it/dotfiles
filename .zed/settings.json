@@ -3,4 +3,22 @@
     // "HTML": ["README.md"],
     "Markdown": ["README.md"],
   },
+  "languages": {
+    "Make": {
+      "auto_indent": "none",
+      "auto_indent_on_paste": false,
+      "document_folding_ranges": "off",
+      "allow_rewrap": "in_comments",
+      "formatter": "prettier",
+      "tab_size": 4,
+      "soft_wrap": "none",
+      "wrap_guides": [],
+      "indent_list_on_tab": false,
+    },
+    "Shell Script": {
+      "ensure_final_newline_on_save": true,
+      "tab_size": 4,
+      "remove_trailing_whitespace_on_save": true,
+    },
+  },
 }

@@ -1,0 +1,15 @@
+{
+  "name": "mdfix",
+  "description": "Fix formatting for GitHub markdown files.",
+  "author": {
+    "name": "Caden Finkelstein",
+    "email": "me@cadenf.com",
+    "url": "https://cadenf.com"
+  },
+  "scripts": {
+    "format": "bash -c format.sh"
+  },
+  "devDependencies": {
+    "prettier": "3.8.1"
+  }
+}
